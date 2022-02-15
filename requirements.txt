@@ -67,7 +67,7 @@ regex==2022.1.18
 scikit-learn 
 scipy
 Send2Trash 
-sip==4.19.13
+sip>=4.19.2
 six
 sklearn==0.0
 terminado 
